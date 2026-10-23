@@ -28,10 +28,13 @@ Gosto de descobrir algo novo e usar isso para criar soluções que funcionem de 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Frontend e Mobile**
+**Frontend, Web e Mobile**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Dados e infraestrutura**
@@ -50,10 +53,19 @@ Gosto de descobrir algo novo e usar isso para criar soluções que funcionem de 
 | Projeto | O que é | Tecnologias |
 |---|---|---|
 | [**KP-4DSM-API**](https://github.com/Kernel-Panic-FatecSjc/KP-4DSM-API) | Plataforma de monitoramento e alertas de desastres naturais para a Defesa Civil: estações com sensores enviam dados, e o sistema classifica o risco e dispara alertas por nível de severidade, com trilha de auditoria. Atuo em testes e no módulo de contratos e licitações do backend. | NestJS, Prisma, PostgreSQL, Next.js, GitHub Actions |
-| **Kernel Panic: microsserviços** | Sistema acadêmico em microsserviços (usuários, rematrícula e notas) com API Gateway, autenticação JWT reforçada e painel web com dashboard e relatório de auditoria exportável em PDF e CSV. | Java, Spring Boot, Spring Cloud Gateway, Eureka, MongoDB, Redis, Docker, Next.js |
+| [**KP-3DSM (frontend)**](https://github.com/Kernel-Panic-FatecSjc/KP-3DSM-API-FRONTEND) | Interface web de um sistema acadêmico em microsserviços (usuários, rematrícula e notas), com dashboard de gráficos e relatório de auditoria exportável em PDF e CSV, integrada a uma API Gateway com autenticação JWT. | React, TypeScript, Recharts, Java, Spring Boot, Spring Cloud Gateway |
 | **SIGA** | Sistema de gestão acadêmica: serviço de login com sessão em Redis e Spring Security, API Gateway e aplicativo mobile. | Java, Spring Boot, Redis, MongoDB, Docker, React Native |
-| [**API DSM, 1º semestre**](https://github.com/Team-Chronos/API-DSM-1SEMESTRE-2025) | Painel web para monitorar tendências de importação e exportação do estado de São Paulo, com filtros e gráficos. Apresentado na Feira de Soluções da FATEC. | Python, Flask, MySQL, HTML, CSS |
+| [**TaskFlow**](https://github.com/gabsact4/TaskFlow) | Aplicativo de gerenciamento de tarefas, desenvolvido com backlog e metodologia Scrum. | Scrum, backlog de produto |
 | [**Portfólio**](https://portifolio-novo-seven.vercel.app/) | Meu site pessoal, com trajetória, habilidades e currículo para download. | Next.js, TypeScript, Vercel |
+
+## Mais projetos acadêmicos
+
+| Projeto | O que é |
+|---|---|
+| [**API DSM, 1º semestre**](https://github.com/Team-Chronos/API-DSM-1SEMESTRE-2025) | Painel web para monitorar tendências de importação e exportação do estado de São Paulo, com filtros e gráficos, feito em Python, Flask e MySQL e apresentado na Feira de Soluções da FATEC. |
+| [**Banco_Nao_Relacional**](https://github.com/gabsact4/Banco_Nao_Relacional) | Projeto acadêmico sobre bancos de dados não relacionais (NoSQL). |
+| [**DSW-III-AV5**](https://github.com/gabsact4/DSW-III-AV5) | Avaliação acadêmica da disciplina DSW III (FATEC DSM). |
+| [**TP-II-AV5**](https://github.com/gabsact4/TP-II-AV5) | Avaliação acadêmica da disciplina TP II (FATEC DSM). |
 
 ## Como eu trabalho
 
